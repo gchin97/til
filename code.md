@@ -1,4 +1,4 @@
-# Initiating git
+# 1) Initiating git
 
 git init #initiate git
 
@@ -13,11 +13,11 @@ git add . #모든 파일을 add
 git log # 커밋 히스토리 조회
 
 
-# 1) GUI (Graphic User Interface)
+# 2) GUI (Graphic User Interface)
 
 - 명령 후 실행을 하며 결과를 읽게 됨 
 
-# 2) CLI 명령어
+# 3) CLI 명령어
 
 - pwd : print working directory
 
