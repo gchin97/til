@@ -1,4 +1,4 @@
-## Initiating git
+# Initiating git
 
 git init #initiate git
 
@@ -6,11 +6,11 @@ git commit -m ‘메시지’ #메세지라는 이름으로 커밋
 
 touch a.txt  #make a new text file
 
-git stautus #상태확인
+git stautus #상태 확인
 
-git add . #모든 파일을 add 해라
+git add . #모든 파일을 add
 
-git log # 커밋 히스토리 조회하기
+git log # 커밋 히스토리 조회
 
 
 # 1) GUI (Graphic User Interface)
